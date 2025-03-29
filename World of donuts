@@ -9,9 +9,8 @@
 <style>
 </style>
 <body>
-    <div>
-    <h1>Мир пончиков</h1>
-    <img src="/uploads/2023/02/donut.png">
-</div>
+    <div style="display: flex; flex-direction: column; align-items: center; width: fit-content;">
+    <h1 style="color: red; ">Мир пончиков</h1>
+    <img src="/uploads/2023/02/donut.png"></div>
 </body>
 </html>
